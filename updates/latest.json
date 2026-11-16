@@ -1,9 +1,9 @@
 {
-  "version": "Alpha 0.1.2",
-  "notes": "Erste Version über die Update-Funktion. Neu: YouTube- und Twitch-Bereich, fertige Farbpakete, „Alles zurücksetzen“.",
-  "setup": "https://raw.githubusercontent.com/bosa-HD/theme-studio/main/updates/ThemeStudio-Setup-0.1.2.exe",
-  "sha256": "4f8b1cffdc92b09fe5fa6ede4d59443e57e82709c379695016ccba29bb3d5ad4",
-  "size": 34316299,
-  "sig": "LxHRxTeY5qZX+XQi2eb6A3QL+s8hBIvB7N8vjQYnhHDaMYFjmbYOa/kLPjN7uPnQRwBvxpvb/X6YD2xgKYVVDw==",
-  "date": "2026-11-16T03:11:03.204Z"
+  "version": "Alpha 0.1.3",
+  "notes": "Neu: eigener Bereich „Freunde“ mit Vorschau. Nachrichtenfeld und Chat-Blasen getrennt einstellbar. Einstellungsfenster: Leiste oben, Schrift, Schalter und Abdunkeln funktionieren mit dem neuen Discord.",
+  "setup": "https://raw.githubusercontent.com/bosa-HD/theme-studio/main/updates/ThemeStudio-Setup-0.1.3.exe",
+  "sha256": "c2e363a850d7c63920d61d924b6371498af5125331d06e7515b00bee7733283d",
+  "size": 34318637,
+  "sig": "SpI6qNr2zaguzMfxhZW7qYQnrIuMx0RIrH6j0dhT0nDnVt+pq7hnrrxvGNDB9XXz4YkZC83B2j780k6oLGnEDA==",
+  "date": "2026-11-16T09:50:37.056Z"
 }
