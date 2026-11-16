@@ -1,0 +1,9 @@
+{
+  "version": "Alpha 0.1.2",
+  "notes": "Erste Version über die Update-Funktion. Neu: YouTube- und Twitch-Bereich, fertige Farbpakete, „Alles zurücksetzen“.",
+  "setup": "https://raw.githubusercontent.com/bosa-HD/theme-studio/main/updates/ThemeStudio-Setup-0.1.2.exe",
+  "sha256": "4f8b1cffdc92b09fe5fa6ede4d59443e57e82709c379695016ccba29bb3d5ad4",
+  "size": 34316299,
+  "sig": "LxHRxTeY5qZX+XQi2eb6A3QL+s8hBIvB7N8vjQYnhHDaMYFjmbYOa/kLPjN7uPnQRwBvxpvb/X6YD2xgKYVVDw==",
+  "date": "2026-11-16T03:11:03.204Z"
+}
