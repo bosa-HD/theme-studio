@@ -1,9 +1,9 @@
 {
-  "version": "Alpha 0.1.4",
-  "notes": "Freunde: die Leiste oben hat jetzt eigene Farbe und Deckkraft, der schwarze Balken in Discord ist weg.",
-  "setup": "https://raw.githubusercontent.com/bosa-HD/theme-studio/main/updates/ThemeStudio-Setup-0.1.4.exe",
-  "sha256": "2b8be981f2f1bac79900e64e12866c2d896969410294b544c0e7f7246db93518",
-  "size": 34318888,
-  "sig": "ZuEFWsjspbqw/WsdXVyQ2Myr9OmcrfOZwXVTWtz/rw7zeQ/Kclk3job+qYieVmpxwUW/YYekHIzy/BUIAgvECQ==",
-  "date": "2026-11-16T09:59:44.152Z"
+  "version": "Alpha 0.1.5",
+  "notes": "Eigener Discord-Mod: Themes und Plugins laufen ohne BetterDiscord. Einbauen im Studio unter Discord > Export (Discord startet dabei neu). In Discord: Knopf neben dem Zahnrad oder Strg + Umschalt + T.",
+  "setup": "https://raw.githubusercontent.com/bosa-HD/theme-studio/main/updates/ThemeStudio-Setup-0.1.5.exe",
+  "sha256": "82bec3ee84267122f5b324eabe72daf4c4e1d78a627cb724e1a1a74d1f728623",
+  "size": 35608214,
+  "sig": "Xz/YbROn5JTtDgWXoavE3pIa0+H734PlXVtz/kRrPKdQhX5YaBEUxUbA4V8lzwFBu8/U2cEWamowNisJLn6VBg==",
+  "date": "2026-11-19T18:17:06.631Z"
 }
