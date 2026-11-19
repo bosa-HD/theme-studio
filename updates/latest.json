@@ -1,9 +1,9 @@
 {
-  "version": "Alpha 0.1.5",
-  "notes": "Eigener Discord-Mod: Themes und Plugins laufen ohne BetterDiscord. Einbauen im Studio unter Discord > Export (Discord startet dabei neu). In Discord: Knopf neben dem Zahnrad oder Strg + Umschalt + T.",
-  "setup": "https://raw.githubusercontent.com/bosa-HD/theme-studio/main/updates/ThemeStudio-Setup-0.1.5.exe",
-  "sha256": "82bec3ee84267122f5b324eabe72daf4c4e1d78a627cb724e1a1a74d1f728623",
-  "size": 35608214,
-  "sig": "Xz/YbROn5JTtDgWXoavE3pIa0+H734PlXVtz/kRrPKdQhX5YaBEUxUbA4V8lzwFBu8/U2cEWamowNisJLn6VBg==",
-  "date": "2026-11-19T18:17:06.631Z"
+  "version": "Alpha 0.1.6",
+  "notes": "Verbesserungsvorschläge: jetzt mit Dateien anhängen (Bilder, Videos, ZIP – bis zu 5 Dateien, zusammen 9 MB).",
+  "setup": "https://raw.githubusercontent.com/bosa-HD/theme-studio/main/updates/ThemeStudio-Setup-0.1.6.exe",
+  "sha256": "2232376b4ebbd1e0f7bddaa14c7e7aceb696958a29586bdb34c15c35df170d7a",
+  "size": 35609473,
+  "sig": "CreojmKLBrD6+RZNBXfHPmtisfHEoVPqyDgVw7g6vtQuRkjYqxOxqmqPG3Lsh5xyQdbMN9vTmROwxRpkBKWiDA==",
+  "date": "2026-11-19T20:16:21.311Z"
 }
