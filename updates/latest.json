@@ -1,9 +1,9 @@
 {
-  "version": "Alpha 0.1.8",
-  "notes": "Discord: Die Vorschau zeigt jetzt das Theme, das in Discord gerade aktiv ist (bei ungespeicherten Änderungen wird vorher gefragt) und wechselt mit, wenn du in Discord ein anderes Theme einschaltest. Sprachkanal: Deckkraft der Fläche jetzt immer einstellbar, das Hintergrundbild scheint auch in Discord richtig durch. Theme Studio beendet sich nach dem Schließen schneller (Spielt-Anzeige in Discord verschwindet nach wenigen Sekunden).",
-  "setup": "https://raw.githubusercontent.com/bosa-HD/theme-studio/main/updates/ThemeStudio-Setup-0.1.8.exe",
-  "sha256": "59a26589796818e27133f6f532ec6b1194b409c7da9f6b51b702b7b2118e3a33",
-  "size": 36754937,
-  "sig": "zFOanWtY8CKmysoPv3qE/olxQT8HTMkY/TnOId/2lwq90fyW9zkE5tc15fu62i8g+teooBuO1p/SSkTvA8DFDA==",
-  "date": "2026-11-20T18:53:45.658Z"
+  "version": "Alpha 0.1.9",
+  "notes": "Discord → Hintergrund → „Eine Ebene“: Keine Linien und Spalten mehr zwischen Titelleiste, Kopfleiste, Chat, Kanälen und Mitgliederliste (standardmäßig an). Neu: „Alles eine Ebene“ – eine einzige durchsichtige Farbschicht mit eigener Farbe und Deckkraft über dem ganzen Hintergrundbild.",
+  "setup": "https://raw.githubusercontent.com/bosa-HD/theme-studio/main/updates/ThemeStudio-Setup-0.1.9.exe",
+  "sha256": "45f3a036bfda769b42b2230fb5000519fb678c9b5c41f896be316ed0d599f282",
+  "size": 36755798,
+  "sig": "f9LD1PzV2ttwISM2kDIMX2/J1F7/JAFfA2he3lEJxRP8YRtqGB0YlYav8SZTyquKPIP1sD6sp5UKClwfA1GCDg==",
+  "date": "2026-11-20T21:26:10.281Z"
 }
