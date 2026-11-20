@@ -1,9 +1,9 @@
 {
-  "version": "Alpha 0.1.6",
-  "notes": "Verbesserungsvorschläge: jetzt mit Dateien anhängen (Bilder, Videos, ZIP – bis zu 5 Dateien, zusammen 9 MB).",
-  "setup": "https://raw.githubusercontent.com/bosa-HD/theme-studio/main/updates/ThemeStudio-Setup-0.1.6.exe",
-  "sha256": "2232376b4ebbd1e0f7bddaa14c7e7aceb696958a29586bdb34c15c35df170d7a",
-  "size": 35609473,
-  "sig": "CreojmKLBrD6+RZNBXfHPmtisfHEoVPqyDgVw7g6vtQuRkjYqxOxqmqPG3Lsh5xyQdbMN9vTmROwxRpkBKWiDA==",
-  "date": "2026-11-19T20:16:21.311Z"
+  "version": "Alpha 0.1.7",
+  "notes": "Windows: Fenster an der Taskleiste (ausgeblendete Symbole, Vorschau, Rechtsklick-Menüs, WLAN/Ton) in Taskleisten-Farbe. Startmenü: Gruppen verschieben, Kachel-Form, kompakte Stile, Profil/Schnellzugriff abschaltbar, Buchstaben-Sprung, aufgeräumte App-Liste (nur installierte Programme), Farben bleiben beim Stilwechsel, gemeinsam mit der Taskleiste färben.",
+  "setup": "https://raw.githubusercontent.com/bosa-HD/theme-studio/main/updates/ThemeStudio-Setup-0.1.7.exe",
+  "sha256": "172b31a6dc598eb50e43851d47477ef92a836e44c83c731d263633f01f05518a",
+  "size": 35495047,
+  "sig": "T3Hl3aJZF5iQUFXGoWcLxSB590ezWH5E0iIZ/c7pajBsm3+tiEQ7Q1AbHbpxK0Joy9p1SPrIlhWj5KKKgFevBA==",
+  "date": "2026-11-20T15:05:20.144Z"
 }
