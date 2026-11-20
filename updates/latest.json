@@ -1,9 +1,9 @@
 {
-  "version": "Alpha 0.1.7",
-  "notes": "Windows: Fenster an der Taskleiste (ausgeblendete Symbole, Vorschau, Rechtsklick-Menüs, WLAN/Ton) in Taskleisten-Farbe. Startmenü: Gruppen verschieben, Kachel-Form, kompakte Stile, Profil/Schnellzugriff abschaltbar, Buchstaben-Sprung, aufgeräumte App-Liste (nur installierte Programme), Farben bleiben beim Stilwechsel, gemeinsam mit der Taskleiste färben.",
-  "setup": "https://raw.githubusercontent.com/bosa-HD/theme-studio/main/updates/ThemeStudio-Setup-0.1.7.exe",
-  "sha256": "172b31a6dc598eb50e43851d47477ef92a836e44c83c731d263633f01f05518a",
-  "size": 35495047,
-  "sig": "T3Hl3aJZF5iQUFXGoWcLxSB590ezWH5E0iIZ/c7pajBsm3+tiEQ7Q1AbHbpxK0Joy9p1SPrIlhWj5KKKgFevBA==",
-  "date": "2026-11-20T15:05:20.144Z"
+  "version": "Alpha 0.1.8",
+  "notes": "Discord: Die Vorschau zeigt jetzt das Theme, das in Discord gerade aktiv ist (bei ungespeicherten Änderungen wird vorher gefragt) und wechselt mit, wenn du in Discord ein anderes Theme einschaltest. Sprachkanal: Deckkraft der Fläche jetzt immer einstellbar, das Hintergrundbild scheint auch in Discord richtig durch. Theme Studio beendet sich nach dem Schließen schneller (Spielt-Anzeige in Discord verschwindet nach wenigen Sekunden).",
+  "setup": "https://raw.githubusercontent.com/bosa-HD/theme-studio/main/updates/ThemeStudio-Setup-0.1.8.exe",
+  "sha256": "59a26589796818e27133f6f532ec6b1194b409c7da9f6b51b702b7b2118e3a33",
+  "size": 36754937,
+  "sig": "zFOanWtY8CKmysoPv3qE/olxQT8HTMkY/TnOId/2lwq90fyW9zkE5tc15fu62i8g+teooBuO1p/SSkTvA8DFDA==",
+  "date": "2026-11-20T18:53:45.658Z"
 }
