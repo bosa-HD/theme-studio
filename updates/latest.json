@@ -1,9 +1,9 @@
 {
-  "version": "Alpha 0.1.9",
-  "notes": "Discord → Hintergrund → „Eine Ebene“: Keine Linien und Spalten mehr zwischen Titelleiste, Kopfleiste, Chat, Kanälen und Mitgliederliste (standardmäßig an). Neu: „Alles eine Ebene“ – eine einzige durchsichtige Farbschicht mit eigener Farbe und Deckkraft über dem ganzen Hintergrundbild.",
-  "setup": "https://raw.githubusercontent.com/bosa-HD/theme-studio/main/updates/ThemeStudio-Setup-0.1.9.exe",
-  "sha256": "45f3a036bfda769b42b2230fb5000519fb678c9b5c41f896be316ed0d599f282",
-  "size": 36755798,
-  "sig": "f9LD1PzV2ttwISM2kDIMX2/J1F7/JAFfA2he3lEJxRP8YRtqGB0YlYav8SZTyquKPIP1sD6sp5UKClwfA1GCDg==",
-  "date": "2026-11-20T21:26:10.281Z"
+  "version": "Alpha 0.1.10",
+  "notes": "Unser Discord-Plugin „ThemeStudio“ kommt jetzt immer mit: Theme Studio legt es beim Start automatisch nach Discord (eigener Mod oder BetterDiscord), hält es aktuell und schaltet es ein – auch nach einem Update.",
+  "setup": "https://raw.githubusercontent.com/bosa-HD/theme-studio/main/updates/ThemeStudio-Setup-0.1.10.exe",
+  "sha256": "e3e22329dc803a44f159ebecb5d16dd687c3e327c393f29a87703a054419c116",
+  "size": 36756109,
+  "sig": "vVECozfCVZIG+1STustruzhQ80TjLonSiADqPHr6TQz4i1Zws916cRb/E1cdX6SGgLG2R9M65We2V3xvvRrfAA==",
+  "date": "2026-11-23T18:34:04.715Z"
 }
