@@ -1,9 +1,9 @@
 {
-  "version": "Alpha 0.1.11",
-  "notes": "Mehr zum Einstellen in Discord: Freunde, Nachrichtenanfragen, Nitro, Shop und Quests mit eigener Farbe und Deckkraft (Vorschau über „Freunde ▾“). Farben sortiert in die passenden Reiter, eigene Symbolfarben je Bereich. Deckkraft für Nachrichtenfeld, Suchfeld und „Server hinzufügen/Entdecken“. Boost-Ziel unter dem Servernamen und Soundboard-Fenster einstellbar. Neues Farbfenster mit Pipette direkt im Vorschaubild (Leertaste: Studio ausblenden). Mitgelieferte Plugins heißen jetzt Spotify und ScreenShare und kommen automatisch mit.",
-  "setup": "https://raw.githubusercontent.com/bosa-HD/theme-studio/main/updates/ThemeStudio-Setup-0.1.11.exe",
-  "sha256": "6fc308decfb70c67b29e84b9c3a4f603c203ac79c8ca7c4f2fd4b2aad5d80780",
-  "size": 35507864,
-  "sig": "uF6jZai51CYI/KMZr1ctUkCJHO8c9vZK8YRHbXypEvCc7vPTxr5K0X7FapRqLQPTFA4jZNHwmqGepwaL5FqMAw==",
-  "date": "2026-11-24T11:18:39.942Z"
+  "version": "Alpha 0.1.12",
+  "notes": "Fehlerberichte mit Bildern: Bildschirmfotos anhängen oder mit Strg+V einfügen. Das Studio stürzt nicht mehr ab, wenn Windows oder der Virenschutz ein Teilprogramm (z. B. das eigene Startmenü) blockiert – stattdessen kommt ein klarer Hinweis. Eigene Leiste: Startknopf und Mulde passen jetzt auch bei anderer Anzeige-Skalierung. Windows-Hintergrund: über mehrere Monitore ohne Verzerrung, und auf Wunsch jeder Monitor mit eigenem Bild.",
+  "setup": "https://raw.githubusercontent.com/bosa-HD/theme-studio/main/updates/ThemeStudio-Setup-0.1.12.exe",
+  "sha256": "6b1240805724aedc390d8375bfc4b97384c8c57989d0a0b93ff25123da7868af",
+  "size": 36721825,
+  "sig": "NgQQFdyCbrxYAr3otSNpgGFsc8qLy02WGGZjJwDjNqKpo7/xVDbdEyjL/ngzcon2Ytj5NVuSb5FC/GOlBjqSBQ==",
+  "date": "2026-11-24T13:01:19.948Z"
 }
