@@ -1,9 +1,9 @@
 {
-  "version": "Alpha 0.1.13",
-  "notes": "Fehler behoben: Die eigene Farbe für die Knöpfe neben deinem Namen (Mikrofon, Headset, Zahnrad und die kleinen Pfeile) kommt jetzt bei allen Knöpfen in Discord an – vorher nur beim Mikrofon. Dasselbe für die Symbolfarben im Nachrichtenfeld und in der Kopfleiste. Dazu ein kleiner Fehler im Hintergrundprogramm behoben.",
-  "setup": "https://raw.githubusercontent.com/bosa-HD/theme-studio/main/updates/ThemeStudio-Setup-0.1.13.exe",
-  "sha256": "dd11a13c5322de383babaaac606bbf18d837015cd687169aedaed09e3b634191",
-  "size": 35511779,
-  "sig": "AyuPljh8Tv0bC32o6dPB6eKzy0Iq5crzXXckwDRBIBFrH0UN/GGqDGKbf4fzG7oRHL2Han1bwfJchrsnuEzkAg==",
-  "date": "2026-11-24T13:56:10.796Z"
+  "version": "Alpha 0.1.14",
+  "notes": "Fehler behoben: Bei „Jeder Monitor ein eigenes Bild“ konnte auf allen Monitoren dasselbe Bild landen, wenn Windows die Monitore nicht einzeln setzen ließ. Jetzt wird in dem Fall ein Gesamtbild über alle Bildschirme gelegt, und das Studio sagt Bescheid. Neu im Fehlerbericht: ein Protokoll zum Hintergrund. Außerdem: vollständige Rahmen-Listen im Profil-Editor (alle Avatar-Dekos und Profil-Rahmen aus Discord).",
+  "setup": "https://raw.githubusercontent.com/bosa-HD/theme-studio/main/updates/ThemeStudio-Setup-0.1.14.exe",
+  "sha256": "a3adbf76e29a90d6114c38620ce265c77d21c308438e02be032cd198bd88cc77",
+  "size": 35470341,
+  "sig": "5gZn0zgp8mMAsCx1PhUl+16sz5jwOEish9RflpiuMWG2ShmCT4adDiJgp+Hv7pXTXs81dk0MgbhTNOK5djzMDQ==",
+  "date": "2026-11-25T16:29:25.690Z"
 }
