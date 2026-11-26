@@ -1,9 +1,9 @@
 {
-  "version": "Alpha 0.1.14",
-  "notes": "Fehler behoben: Bei „Jeder Monitor ein eigenes Bild“ konnte auf allen Monitoren dasselbe Bild landen, wenn Windows die Monitore nicht einzeln setzen ließ. Jetzt wird in dem Fall ein Gesamtbild über alle Bildschirme gelegt, und das Studio sagt Bescheid. Neu im Fehlerbericht: ein Protokoll zum Hintergrund. Außerdem: vollständige Rahmen-Listen im Profil-Editor (alle Avatar-Dekos und Profil-Rahmen aus Discord).",
-  "setup": "https://raw.githubusercontent.com/bosa-HD/theme-studio/main/updates/ThemeStudio-Setup-0.1.14.exe",
-  "sha256": "a3adbf76e29a90d6114c38620ce265c77d21c308438e02be032cd198bd88cc77",
-  "size": 35470341,
-  "sig": "5gZn0zgp8mMAsCx1PhUl+16sz5jwOEish9RflpiuMWG2ShmCT4adDiJgp+Hv7pXTXs81dk0MgbhTNOK5djzMDQ==",
-  "date": "2026-11-25T16:29:25.690Z"
+  "version": "Alpha 0.1.15",
+  "notes": "Neu: Chatfenster – Direktnachrichten in einem eigenen Fenster mit Sprechblasen, Emojis, GIFs und Stickern. Kommt mit, ist aber ab Werk aus: einschalten im Studio unter Discord > Plugins, gestalten unter Discord > Chatfenster. Der Discord-Mod kann das Fenster jetzt als eigenes Windows-Fenster herauslösen (z. B. auf den zweiten Bildschirm) – dafür Discord nach dem Update einmal ganz beenden und neu starten. Mitgelieferte Plugins haben ab Werk keine Tastenbelegung mehr. Außerdem: „Windows-Hintergrund verwenden“ zeigt jetzt auch bei einem über alle Monitore gestreckten Bild die Auswahl je Monitor.",
+  "setup": "https://raw.githubusercontent.com/bosa-HD/theme-studio/main/updates/ThemeStudio-Setup-0.1.15.exe",
+  "sha256": "27c40352f4f7bae54788b5bce98490ed4e8f40d8f89ba2198595e77e7bab9772",
+  "size": 36760195,
+  "sig": "LiHK+/Pxf9JfrFXFOaJ1VEatHm99MF4rlbTkXXKXZ78VdO5XKIhXRT16wAKaTSEZNHr3bjpjU2D6rjJbf02hAg==",
+  "date": "2026-11-26T10:40:03.216Z"
 }
