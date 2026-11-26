@@ -1,9 +1,9 @@
 {
-  "version": "Alpha 0.1.16",
-  "notes": "Neu: In Discords Einstellungen gibt es jetzt einen eigenen Bereich „Theme Studio“ (nach „Erfahrung“) mit Plugins, Themes und Einstellungen. Unter Einstellungen lassen sich der Knopf unten links, Strg + Umschalt + T und die kleinen Hinweise ein- und ausschalten. Der Theme-Studio-Knopf neben dem Zahnrad wird jetzt auch bei neueren Discord-Fassungen und anderer Discord-Sprache gefunden. Fehlerberichte enthalten jetzt auch Angaben zum Discord-Mod. Nach dem Update in Discord einmal Strg + R drücken.",
-  "setup": "https://raw.githubusercontent.com/bosa-HD/theme-studio/main/updates/ThemeStudio-Setup-0.1.16.exe",
-  "sha256": "745a20d65b862f1f0cec7f1107f1cf27e9ea5fac7581de558b413916e7ab40b8",
-  "size": 35510306,
-  "sig": "xnJLhIDm4EFkGR6lbYzjbmwkdVbJZrKnKHWKEDh5zO6OYosr3Yqwm1vASsRM0jipfwSYc8CPpr438e4NNEenBw==",
-  "date": "2026-11-26T11:47:35.796Z"
+  "version": "Alpha 0.1.17",
+  "notes": "Windows-Hintergrund: Monitore können sich jetzt ein Bild teilen (bei „Jeder Monitor ein eigenes Bild“ unter „Bild“ einen anderen Monitor wählen), z. B. Monitor 1 + 2 ein großes Bild und Monitor 3 ein eigenes. Neu: „Automatisch angleichen“ (unterschiedlich große Monitore), „Rahmen und Anordnung ausgleichen“ mit Ausrichtungs-Testbild und Live-Anzeige direkt auf den Monitoren. Eigenes Startmenü: neu installierte Programme erscheinen jetzt von selbst in der Liste. Bitte testet vor allem das Ausrichten mit mehreren Monitoren und schickt Rückmeldung.",
+  "setup": "https://raw.githubusercontent.com/bosa-HD/theme-studio/main/updates/ThemeStudio-Setup-0.1.17.exe",
+  "sha256": "03cd0daa509a606acd4581437c7c826cf4a06ea8b3494358e6228285ef87ac74",
+  "size": 36713178,
+  "sig": "1lEBkuIgrvd9ZcqLOav5dQIDswWFg7OMGoUProuM6TeAgE1R4IF/skdDdlB7kDSSMx8Q29cQc0mIbW/BQFC/Ag==",
+  "date": "2026-11-26T19:27:30.523Z"
 }
