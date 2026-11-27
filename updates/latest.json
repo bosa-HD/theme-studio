@@ -1,9 +1,9 @@
 {
-  "version": "Alpha 0.1.17",
-  "notes": "Windows-Hintergrund: Monitore können sich jetzt ein Bild teilen (bei „Jeder Monitor ein eigenes Bild“ unter „Bild“ einen anderen Monitor wählen), z. B. Monitor 1 + 2 ein großes Bild und Monitor 3 ein eigenes. Neu: „Automatisch angleichen“ (unterschiedlich große Monitore), „Rahmen und Anordnung ausgleichen“ mit Ausrichtungs-Testbild und Live-Anzeige direkt auf den Monitoren. Eigenes Startmenü: neu installierte Programme erscheinen jetzt von selbst in der Liste. Bitte testet vor allem das Ausrichten mit mehreren Monitoren und schickt Rückmeldung.",
-  "setup": "https://raw.githubusercontent.com/bosa-HD/theme-studio/main/updates/ThemeStudio-Setup-0.1.17.exe",
-  "sha256": "03cd0daa509a606acd4581437c7c826cf4a06ea8b3494358e6228285ef87ac74",
-  "size": 36713178,
-  "sig": "1lEBkuIgrvd9ZcqLOav5dQIDswWFg7OMGoUProuM6TeAgE1R4IF/skdDdlB7kDSSMx8Q29cQc0mIbW/BQFC/Ag==",
-  "date": "2026-11-26T19:27:30.523Z"
+  "version": "Alpha 0.1.19",
+  "notes": "Eigenes Startmenü im Spiel: Klickt man nach der Windows-Taste auf die Taskleiste (ausgeblendete Symbole, WLAN/Ton, Uhr, Programme), bleibt sie jetzt oben, solange man sie benutzt. Windows-Hintergrund: Die Pfeile beim Ausrichten bewegen das Bild jetzt so, wie man es auf dem Monitor sieht; ändert man die Monitor-Anordnung in Windows, wird sie gleich neu eingelesen. Dazu: installierte Schriften im Reiter Schrift, Chatfenster-Plugin 1.7.0.",
+  "setup": "https://raw.githubusercontent.com/bosa-HD/theme-studio/main/updates/ThemeStudio-Setup-0.1.19.exe",
+  "sha256": "5989e9d6518325c7c71e4527fda3d256a3316dfa06b1e2caec118c7849c9d983",
+  "size": 36722971,
+  "sig": "lEYMNVilCRO7D7phNogygDm6Wsw1JnvkGcEJFM74kxudhCNd988IbW7uUmZ4nBKejgIku+a9OzCrOKpsjq/SDQ==",
+  "date": "2026-11-27T18:45:54.879Z"
 }
