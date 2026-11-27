@@ -1,9 +1,9 @@
 {
-  "version": "Alpha 0.1.19",
-  "notes": "Eigenes Startmenü im Spiel: Klickt man nach der Windows-Taste auf die Taskleiste (ausgeblendete Symbole, WLAN/Ton, Uhr, Programme), bleibt sie jetzt oben, solange man sie benutzt. Windows-Hintergrund: Die Pfeile beim Ausrichten bewegen das Bild jetzt so, wie man es auf dem Monitor sieht; ändert man die Monitor-Anordnung in Windows, wird sie gleich neu eingelesen. Dazu: installierte Schriften im Reiter Schrift, Chatfenster-Plugin 1.7.0.",
-  "setup": "https://raw.githubusercontent.com/bosa-HD/theme-studio/main/updates/ThemeStudio-Setup-0.1.19.exe",
-  "sha256": "5989e9d6518325c7c71e4527fda3d256a3316dfa06b1e2caec118c7849c9d983",
-  "size": 36722971,
-  "sig": "lEYMNVilCRO7D7phNogygDm6Wsw1JnvkGcEJFM74kxudhCNd988IbW7uUmZ4nBKejgIku+a9OzCrOKpsjq/SDQ==",
-  "date": "2026-11-27T18:45:54.879Z"
+  "version": "Alpha 0.1.20",
+  "notes": "Discord-Plugins: ScreenShare 1.9.0 – jeder Monitor kann eine eigene Taste bekommen (drücken = diesen Bildschirm übertragen, auf ihn wechseln oder, wenn er schon läuft, beenden). Neu dabei: Plugin SoundboardStumm – schaltet dein Mikro automatisch stumm, solange ein Sound aus der Soundboard-App läuft. Wie alle mitgelieferten Plugins ist es ab Werk aus; einschalten im Studio unter Discord > Plugins.",
+  "setup": "https://raw.githubusercontent.com/bosa-HD/theme-studio/main/updates/ThemeStudio-Setup-0.1.20.exe",
+  "sha256": "055c222d339c75f81b6f9f2c9eea645c0661970ed7d5e56fe1ded1f729280dd2",
+  "size": 36727669,
+  "sig": "jb4JP7vrGnNFA9bCdDtOnN2lByvdLRGPKcaqq1ScoeTJS167AlF5mx+nyYWcseSJ9rUAU9LYlYzEHHGe8W50Dg==",
+  "date": "2026-11-27T19:52:22.761Z"
 }
