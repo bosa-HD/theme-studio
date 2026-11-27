@@ -1,0 +1,41 @@
+{
+ "date": "2026-11-27T20:31:09.324Z",
+ "list": [
+  {
+   "name": "Chatfenster",
+   "file": "Chatfenster.plugin.js",
+   "version": "1.7.0",
+   "url": "https://raw.githubusercontent.com/bosa-HD/theme-studio/main/updates/plugins/Chatfenster.plugin.js",
+   "sha256": "23b9a0f7bb4f27c3cff7a15f407b5a05bc89e7c46cf3f42a5acd3c5fc92fd61d"
+  },
+  {
+   "name": "ScreenShare",
+   "file": "ScreenShare.plugin.js",
+   "version": "1.9.0",
+   "url": "https://raw.githubusercontent.com/bosa-HD/theme-studio/main/updates/plugins/ScreenShare.plugin.js",
+   "sha256": "74cf3f0dbf0e4b56759a85cb65eb1e0ef8dd82d0d95b37829962ff6629745b2a"
+  },
+  {
+   "name": "SoundboardStumm",
+   "file": "SoundboardStumm.plugin.js",
+   "version": "1.0.0",
+   "url": "https://raw.githubusercontent.com/bosa-HD/theme-studio/main/updates/plugins/SoundboardStumm.plugin.js",
+   "sha256": "d3ea3946eaedf861b23dfe4f3c9eb66fd186bc3c09a3509f3e081f3f0fdb64b5"
+  },
+  {
+   "name": "Spotify",
+   "file": "Spotify.plugin.js",
+   "version": "1.3.0",
+   "url": "https://raw.githubusercontent.com/bosa-HD/theme-studio/main/updates/plugins/Spotify.plugin.js",
+   "sha256": "2f7e64e9bd21eb5b25608817de0fd79a42abcdd9248e20136aeb69486e24d4a2"
+  },
+  {
+   "name": "ThemeStudio",
+   "file": "ThemeStudio.plugin.js",
+   "version": "1.3.1",
+   "url": "https://raw.githubusercontent.com/bosa-HD/theme-studio/main/updates/plugins/ThemeStudio.plugin.js",
+   "sha256": "9c350cd6e74809eb4941de6066d79d1286eef50cd4676100428dd23c10691f01"
+  }
+ ],
+ "sig": "Xj4hvF4+ibdLy/HdX1o6y+wlgDL9RJT3nCzJDhNakSrE7YIjJUOj9WF2UB9Is/ntcCRKjIV+ERjT3YDtIeG3CA=="
+}

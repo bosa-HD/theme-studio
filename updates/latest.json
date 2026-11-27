@@ -1,9 +1,9 @@
 {
-  "version": "Alpha 0.1.20",
-  "notes": "Discord-Plugins: ScreenShare 1.9.0 – jeder Monitor kann eine eigene Taste bekommen (drücken = diesen Bildschirm übertragen, auf ihn wechseln oder, wenn er schon läuft, beenden). Neu dabei: Plugin SoundboardStumm – schaltet dein Mikro automatisch stumm, solange ein Sound aus der Soundboard-App läuft. Wie alle mitgelieferten Plugins ist es ab Werk aus; einschalten im Studio unter Discord > Plugins.",
-  "setup": "https://raw.githubusercontent.com/bosa-HD/theme-studio/main/updates/ThemeStudio-Setup-0.1.20.exe",
-  "sha256": "055c222d339c75f81b6f9f2c9eea645c0661970ed7d5e56fe1ded1f729280dd2",
-  "size": 36727669,
-  "sig": "jb4JP7vrGnNFA9bCdDtOnN2lByvdLRGPKcaqq1ScoeTJS167AlF5mx+nyYWcseSJ9rUAU9LYlYzEHHGe8W50Dg==",
-  "date": "2026-11-27T19:52:22.761Z"
+  "version": "Alpha 0.1.21",
+  "notes": "Discord-Plugins kommen ab jetzt einzeln: Gibt es eine neue Fassung eines Plugins, holt Theme Studio sie von selbst (beim Start vom Studio und beim Windows-Start) – ohne neue Programmversion. Deine Plugin-Einstellungen bleiben dabei erhalten.",
+  "setup": "https://raw.githubusercontent.com/bosa-HD/theme-studio/main/updates/ThemeStudio-Setup-0.1.21.exe",
+  "sha256": "f5da31e9567493f83bb196839aad0c29694442e1df7f4c095a8b7ff39f0a5247",
+  "size": 36729046,
+  "sig": "QqKyvCRYtDfHti1i6q7eL7R6Nt01/5S7LxGpSJpwsbSioStubtsce/CdL0rzB2/A+W1HToZ6AlNQCQtOXjZHAQ==",
+  "date": "2026-11-27T20:31:49.521Z"
 }
